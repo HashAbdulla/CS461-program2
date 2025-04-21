@@ -1,0 +1,88 @@
+Final Schedule
+=============
+
+Fitness: 17.70
+
+Time: 10 AM
+---------------------
+SLA451 - Room: Loft 310 (Capacity: 108, Enrollment: 100), Facilitator: Singer
+
+Time: 11 AM
+---------------------
+SLA303 - Room: Loft 206 (Capacity: 75, Enrollment: 60), Facilitator: Banks
+SLA449 - Room: Beach 201 (Capacity: 60, Enrollment: 60), Facilitator: Tyler
+
+Time: 12 PM
+---------------------
+SLA100A - Room: Beach 301 (Capacity: 75, Enrollment: 50), Facilitator: Banks
+SLA201 - Room: Frank 119 (Capacity: 60, Enrollment: 50), Facilitator: Zeldin
+
+Time: 1 PM
+---------------------
+SLA191A - Room: Beach 201 (Capacity: 60, Enrollment: 50), Facilitator: Zeldin
+SLA191B - Room: Roman 201 (Capacity: 50, Enrollment: 50), Facilitator: Banks
+SLA304 - Room: Beach 301 (Capacity: 75, Enrollment: 25), Facilitator: Singer
+
+Time: 2 PM
+---------------------
+SLA100B - Room: Beach 301 (Capacity: 75, Enrollment: 50), Facilitator: Zeldin
+
+Time: 3 PM
+---------------------
+SLA291 - Room: Roman 201 (Capacity: 50, Enrollment: 50), Facilitator: Zeldin
+SLA394 - Room: Beach 201 (Capacity: 60, Enrollment: 20), Facilitator: Singer
+
+Facilitator Assignments
+======================
+
+Facilitator: Lock
+---------------------
+Total activities: 0
+
+Facilitator: Glen
+---------------------
+Total activities: 0
+
+Facilitator: Banks
+---------------------
+SLA303 - Time: 11 AM, Room: Loft 206
+SLA100A - Time: 12 PM, Room: Beach 301
+SLA191B - Time: 1 PM, Room: Roman 201
+Total activities: 3
+
+Facilitator: Richards
+---------------------
+Total activities: 0
+
+Facilitator: Shaw
+---------------------
+Total activities: 0
+
+Facilitator: Singer
+---------------------
+SLA451 - Time: 10 AM, Room: Loft 310
+SLA304 - Time: 1 PM, Room: Beach 301
+SLA394 - Time: 3 PM, Room: Beach 201
+Total activities: 3
+
+Facilitator: Uther
+---------------------
+Total activities: 0
+
+Facilitator: Tyler
+---------------------
+SLA449 - Time: 11 AM, Room: Beach 201
+Total activities: 1
+
+Facilitator: Numen
+---------------------
+Total activities: 0
+
+Facilitator: Zeldin
+---------------------
+SLA201 - Time: 12 PM, Room: Frank 119
+SLA191A - Time: 1 PM, Room: Beach 201
+SLA100B - Time: 2 PM, Room: Beach 301
+SLA291 - Time: 3 PM, Room: Roman 201
+Total activities: 4
+
